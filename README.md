@@ -1,1 +1,1 @@
-# probability-and-statistics-with-python
+# Probability and Statistics with Python
