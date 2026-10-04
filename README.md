@@ -1,3 +1,11 @@
-Course files for 'Statistics and Probability for Computer Science'. 
+# Statistics and Probability with Python for Machine Learning and Deep Learning
 
-Full playlist of videos availble here: https://www.youtube.com/playlist?list=PLnd7R4Mcw3rJDOxrwmwyK-EdJl8Tk431H 
+## 📂 Original Repository
+
+The source code and materials for this course are available at:  
+[https://github.com/recluze/stats-prob-cs](https://github.com/recluze/stats-prob-cs)
+
+## 🎥 Video Lectures
+
+A full playlist of accompanying video lectures is available on YouTube:  
+[https://www.youtube.com/playlist?list=PLnd7R4Mcw3rJDOxrwmwyK-EdJl8Tk431H](https://www.youtube.com/playlist?list=PLnd7R4Mcw3rJDOxrwmwyK-EdJl8Tk431H)
